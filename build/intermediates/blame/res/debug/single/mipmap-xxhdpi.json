@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\keyboard.png",
+        "source": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\src\\main\\res\\mipmap-xxhdpi\\keyboard.png"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\microphone.png",
+        "source": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\src\\main\\res\\mipmap-xxhdpi\\microphone.png"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\logo.png",
+        "source": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\src\\main\\res\\mipmap-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

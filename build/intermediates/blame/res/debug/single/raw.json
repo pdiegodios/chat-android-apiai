@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\raw\\test_stop.mp3",
+        "source": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\src\\main\\res\\raw\\test_stop.mp3"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\raw\\version_config.json",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\36a7266d3b85a91b586f480a70d34b8393240ac3\\output\\res\\raw\\version_config.json"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\raw\\test_start.wav",
+        "source": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\src\\main\\res\\raw\\test_start.wav"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\raw\\test_cancel.wav",
+        "source": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\src\\main\\res\\raw\\test_cancel.wav"
+    }
+]

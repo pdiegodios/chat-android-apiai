@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\send_selected.png",
+        "source": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\src\\main\\res\\drawable-hdpi\\send_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\send.png",
+        "source": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\src\\main\\res\\drawable-hdpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\send_blue.png",
+        "source": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\src\\main\\res\\drawable-hdpi\\send_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_avatar.png",
+        "source": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\src\\main\\res\\drawable-hdpi\\user_avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\googleg_color.png",
+        "source": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\src\\main\\res\\drawable-hdpi\\googleg_color.png"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bot_avatar.png",
+        "source": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\src\\main\\res\\drawable-hdpi\\bot_avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\send_gray.png",
+        "source": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\src\\main\\res\\drawable-hdpi\\send_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\microphone_recording.png",
+        "source": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\src\\main\\res\\drawable-hdpi\\microphone_recording.png"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bubble2.9.png",
+        "source": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\src\\main\\res\\drawable-hdpi\\bubble2.9.png"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bubble1.9.png",
+        "source": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\src\\main\\res\\drawable-hdpi\\bubble1.9.png"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\microphone.png",
+        "source": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\src\\main\\res\\drawable-hdpi\\microphone.png"
+    }
+]

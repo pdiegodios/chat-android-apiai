@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_splash.xml",
+        "source": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\src\\main\\res\\drawable\\background_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\68975da35abe5c4fc2ee5f2fb612e70318cc3794\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\68975da35abe5c4fc2ee5f2fb612e70318cc3794\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\c4d29a9681dbce5312c6af74c67382d4461f7f3e\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\68975da35abe5c4fc2ee5f2fb612e70318cc3794\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\68975da35abe5c4fc2ee5f2fb612e70318cc3794\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\c4d29a9681dbce5312c6af74c67382d4461f7f3e\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\68975da35abe5c4fc2ee5f2fb612e70318cc3794\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\microphone_button.xml",
+        "source": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\src\\main\\res\\drawable\\microphone_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_button.xml",
+        "source": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\src\\main\\res\\drawable\\send_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\42ee91665e0b2cca9cdd541782528147ba7c8e17\\output\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\c4d29a9681dbce5312c6af74c67382d4461f7f3e\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_blue.xml",
+        "source": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\src\\main\\res\\drawable\\circle_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\42ee91665e0b2cca9cdd541782528147ba7c8e17\\output\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\68975da35abe5c4fc2ee5f2fb612e70318cc3794\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\42ee91665e0b2cca9cdd541782528147ba7c8e17\\output\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\c4d29a9681dbce5312c6af74c67382d4461f7f3e\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\c4d29a9681dbce5312c6af74c67382d4461f7f3e\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\c4d29a9681dbce5312c6af74c67382d4461f7f3e\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\42ee91665e0b2cca9cdd541782528147ba7c8e17\\output\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\68975da35abe5c4fc2ee5f2fb612e70318cc3794\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\68975da35abe5c4fc2ee5f2fb612e70318cc3794\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\68975da35abe5c4fc2ee5f2fb612e70318cc3794\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\68975da35abe5c4fc2ee5f2fb612e70318cc3794\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\68975da35abe5c4fc2ee5f2fb612e70318cc3794\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\c4d29a9681dbce5312c6af74c67382d4461f7f3e\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\68975da35abe5c4fc2ee5f2fb612e70318cc3794\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\68975da35abe5c4fc2ee5f2fb612e70318cc3794\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\68975da35abe5c4fc2ee5f2fb612e70318cc3794\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\c4d29a9681dbce5312c6af74c67382d4461f7f3e\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\68975da35abe5c4fc2ee5f2fb612e70318cc3794\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\c4d29a9681dbce5312c6af74c67382d4461f7f3e\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mic_control.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\36a7266d3b85a91b586f480a70d34b8393240ac3\\output\\res\\drawable\\mic_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\68975da35abe5c4fc2ee5f2fb612e70318cc3794\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\c4d29a9681dbce5312c6af74c67382d4461f7f3e\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\view_alpha_selector.xml",
+        "source": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\src\\main\\res\\drawable\\view_alpha_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\c4d29a9681dbce5312c6af74c67382d4461f7f3e\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\68975da35abe5c4fc2ee5f2fb612e70318cc3794\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\68975da35abe5c4fc2ee5f2fb612e70318cc3794\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\68975da35abe5c4fc2ee5f2fb612e70318cc3794\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\68975da35abe5c4fc2ee5f2fb612e70318cc3794\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\68975da35abe5c4fc2ee5f2fb612e70318cc3794\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\c4d29a9681dbce5312c6af74c67382d4461f7f3e\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\c4d29a9681dbce5312c6af74c67382d4461f7f3e\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\68975da35abe5c4fc2ee5f2fb612e70318cc3794\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\c4d29a9681dbce5312c6af74c67382d4461f7f3e\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\68975da35abe5c4fc2ee5f2fb612e70318cc3794\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\68975da35abe5c4fc2ee5f2fb612e70318cc3794\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\68975da35abe5c4fc2ee5f2fb612e70318cc3794\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\pedro\\.android\\build-cache\\68975da35abe5c4fc2ee5f2fb612e70318cc3794\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    }
+]

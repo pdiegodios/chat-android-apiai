@@ -1,0 +1,7 @@
+#Fri Apr 21 14:24:26 AEST 2017
+base.0=C\:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e54b3ae0f429ec8215e9ce8dba668dd6daa7bce6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c9191f2e35be8571ecd79cfec99a8e847bf10f4b\\classes.dex
+base.1=C\:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c9191f2e35be8571ecd79cfec99a8e847bf10f4b
+file.0=C\:\\Users\\pedro\\StudioProjects\\api-ai-android-sdk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e54b3ae0f429ec8215e9ce8dba668dd6daa7bce6\\classes.dex
